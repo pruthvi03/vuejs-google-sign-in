@@ -1,4 +1,4 @@
-# oneforce-task
+# vue-js-google-sign-in
 
 ## Project setup
 ```
