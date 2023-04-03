@@ -1,5 +1,7 @@
 # vue-js-google-sign-in
 
+SImple vue js project for sign-up/sign-in with Vuejs 
+
 ## Project setup
 ```
 yarn install
@@ -21,4 +23,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
